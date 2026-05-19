@@ -1,0 +1,3756 @@
+{
+  "buses": [
+    {
+      "id": 1,
+      "nameEn": "Ababil",
+      "nameBn": "আবাবিল",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Mouchak",
+          "nameBn": "মৌচাক"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        },
+        {
+          "nameEn": "Nutan Bazaar",
+          "nameBn": "নতুন বাজার"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000001"
+    },
+    {
+      "id": 2,
+      "nameEn": "Anabil",
+      "nameBn": "অনাবিল",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Sayedabad",
+          "nameBn": "সায়েদাবাদ"
+        },
+        {
+          "nameEn": "Maniknagor",
+          "nameBn": "মানিকনগর"
+        },
+        {
+          "nameEn": "Kamalapur",
+          "nameBn": "কমলাপুর"
+        },
+        {
+          "nameEn": "Khilgaon",
+          "nameBn": "খিলগাঁও"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        },
+        {
+          "nameEn": "Link Road",
+          "nameBn": "লিংক রোড"
+        },
+        {
+          "nameEn": "Nutan Bazaar",
+          "nameBn": "নতুন বাজার"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "05:30 - 23:00",
+      "contact": "01700000002"
+    },
+    {
+      "id": 3,
+      "nameEn": "Anabil (Route 2)",
+      "nameBn": "অনাবিল (রুট ২)",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Basabo",
+          "nameBn": "বাসাবো"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Shahzadpur",
+          "nameBn": "শাহজাদপুর"
+        },
+        {
+          "nameEn": "Nutan Bazaar",
+          "nameBn": "নতুন বাজার"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "05:30 - 23:00",
+      "contact": "01700000003"
+    },
+    {
+      "id": 4,
+      "nameEn": "ATCL",
+      "nameBn": "এটিসিএল",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Jigatola",
+          "nameBn": "জিগাতলা"
+        },
+        {
+          "nameEn": "Dhanmondi-15",
+          "nameBn": "ধানমন্ডি-১৫"
+        },
+        {
+          "nameEn": "Star Kabab",
+          "nameBn": "স্টার কাবাব"
+        },
+        {
+          "nameEn": "Shankar",
+          "nameBn": "শংকর"
+        },
+        {
+          "nameEn": "BRTC Bus Stop-1",
+          "nameBn": "বিআরটিসি বাস স্টপ-১"
+        },
+        {
+          "nameEn": "Mohammadpur",
+          "nameBn": "মোহাম্মদপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000004"
+    },
+    {
+      "id": 5,
+      "nameEn": "Balaka",
+      "nameBn": "বলাকা",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Sayedabad",
+          "nameBn": "সায়েদাবাদ"
+        },
+        {
+          "nameEn": "Maniknagor",
+          "nameBn": "মানিকনগর"
+        },
+        {
+          "nameEn": "Kamalapur",
+          "nameBn": "কমলাপুর"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Satrastha",
+          "nameBn": "সাতরাস্তা"
+        },
+        {
+          "nameEn": "Nabisco",
+          "nameBn": "নাবিস্কো"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        },
+        {
+          "nameEn": "Gazipur",
+          "nameBn": "গাজীপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000005"
+    },
+    {
+      "id": 6,
+      "nameEn": "Balaka Special",
+      "nameBn": "বলাকা স্পেশাল",
+      "type": "service",
+      "operator": "Private",
+      "fare": 65,
+      "route": [
+        {
+          "nameEn": "Sadarghat",
+          "nameBn": "সদরঘাট"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Naya Bazaar",
+          "nameBn": "নয়া বাজার"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Kakrail",
+          "nameBn": "কাকরাইল"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Sohagh Head Office",
+          "nameBn": "সোহাগ হেড অফিস"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        },
+        {
+          "nameEn": "Shahzadpur",
+          "nameBn": "শাহজাদপুর"
+        },
+        {
+          "nameEn": "Nutan Bazaar",
+          "nameBn": "নতুন বাজার"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        }
+      ],
+      "operatingHours": "06:00 - 21:30",
+      "contact": "01700000006"
+    },
+    {
+      "id": 7,
+      "nameEn": "Bahon Paribahan",
+      "nameBn": "বাহন পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 45,
+      "route": [
+        {
+          "nameEn": "Mirpur-14",
+          "nameBn": "মিরপুর-১৪"
+        },
+        {
+          "nameEn": "Mirpur-13",
+          "nameBn": "মিরপুর-১৩"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Mirpur-2",
+          "nameBn": "মিরপুর-২"
+        },
+        {
+          "nameEn": "Mirpur-1",
+          "nameBn": "মিরপুর-১"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "Kolabagan",
+          "nameBn": "কলাবাগান"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Arambagh",
+          "nameBn": "আরামবাগ"
+        },
+        {
+          "nameEn": "Kamalapur Railway Station",
+          "nameBn": "কমলাপুর রেলওয়ে স্টেশন"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000007"
+    },
+    {
+      "id": 8,
+      "nameEn": "Best Transport",
+      "nameBn": "বেস্ট ট্রান্সপোর্ট",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000008"
+    },
+    {
+      "id": 9,
+      "nameEn": "Bikolpo",
+      "nameBn": "বিকল্প",
+      "type": "service",
+      "operator": "Private",
+      "fare": 40,
+      "route": [
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Agaraon",
+          "nameBn": "আগারগাঁও"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "Kolabagan",
+          "nameBn": "কলাবাগান"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "New Market",
+          "nameBn": "নিউ মার্কেট"
+        },
+        {
+          "nameEn": "Azimpur",
+          "nameBn": "আজিমপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000009"
+    },
+    {
+      "id": 10,
+      "nameEn": "Bondhu Paribahan",
+      "nameBn": "বন্ধু পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Kakrail",
+          "nameBn": "কাকরাইল"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Sohagh Head Office",
+          "nameBn": "সোহাগ হেড অফিস"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000010"
+    },
+    {
+      "id": 11,
+      "nameEn": "Borak",
+      "nameBn": "বোরাক",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Khilgaon",
+          "nameBn": "খিলগাঁও"
+        },
+        {
+          "nameEn": "Taltola",
+          "nameBn": "তালতলা"
+        },
+        {
+          "nameEn": "Motijheel",
+          "nameBn": "মতিঝিল"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shapla Chattor",
+          "nameBn": "শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Kantaban",
+          "nameBn": "কাঁটাবন"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "Kolabagan",
+          "nameBn": "কলাবাগান"
+        },
+        {
+          "nameEn": "Shukrabadi",
+          "nameBn": "শুক্রাবাদ"
+        },
+        {
+          "nameEn": "Dhanmondi-27",
+          "nameBn": "ধানমন্ডি-২৭"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000011"
+    },
+    {
+      "id": 12,
+      "nameEn": "BRTC",
+      "nameBn": "বিআরটিসি",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000012"
+    },
+    {
+      "id": 13,
+      "nameEn": "BRTC (Route 2)",
+      "nameBn": "বিআরটিসি (রুট ২)",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Mirpur-2",
+          "nameBn": "মিরপুর-২"
+        },
+        {
+          "nameEn": "Rupnagar",
+          "nameBn": "রূপনগর"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000013"
+    },
+    {
+      "id": 14,
+      "nameEn": "BRTC (Route 3)",
+      "nameBn": "বিআরটিসি (রুট ৩)",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Demra",
+          "nameBn": "ডেমরা"
+        },
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000014"
+    },
+    {
+      "id": 15,
+      "nameEn": "BRTC (Route 4)",
+      "nameBn": "বিআরটিসি (রুট ৪)",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Mohammadpur",
+          "nameBn": "মোহাম্মদপুর"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Agaraon",
+          "nameBn": "আগারগাঁও"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Gulshan-1",
+          "nameBn": "গুলশান-১"
+        },
+        {
+          "nameEn": "Badda Link Road",
+          "nameBn": "বাড্ডা লিংক রোড"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000015"
+    },
+    {
+      "id": 16,
+      "nameEn": "BRTC (Route 5)",
+      "nameBn": "বিআরটিসি (রুট ৫)",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Fulbaria",
+          "nameBn": "ফুলবাড়িয়া"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000016"
+    },
+    {
+      "id": 17,
+      "nameEn": "BRTC (Route 6)",
+      "nameBn": "বিআরটিসি (রুট ৬)",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Fulbaria",
+          "nameBn": "ফুলবাড়িয়া"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        },
+        {
+          "nameEn": "Savar",
+          "nameBn": "সাভার"
+        },
+        {
+          "nameEn": "Navinagar",
+          "nameBn": "নবীনগর"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000017"
+    },
+    {
+      "id": 18,
+      "nameEn": "BRTC (Route 7)",
+      "nameBn": "বিআরটিসি (রুট ৭)",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Fulbaria",
+          "nameBn": "ফুলবাড়িয়া"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        },
+        {
+          "nameEn": "Gazipur",
+          "nameBn": "গাজীপুর"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000018"
+    },
+    {
+      "id": 19,
+      "nameEn": "BRTC (Route 8)",
+      "nameBn": "বিআরটিসি (রুট ৮)",
+      "type": "brtc",
+      "operator": "Government",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        },
+        {
+          "nameEn": "Gazipur",
+          "nameBn": "গাজীপুর"
+        }
+      ],
+      "operatingHours": "05:30 - 22:00",
+      "contact": "01700000019"
+    },
+    {
+      "id": 20,
+      "nameEn": "Choice Transport",
+      "nameBn": "চয়েস ট্রান্সপোর্ট",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000020"
+    },
+    {
+      "id": 21,
+      "nameEn": "Dhamrai Paribahan",
+      "nameBn": "ধামরাই পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 65,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Chankharpool",
+          "nameBn": "চাংখারপুল"
+        },
+        {
+          "nameEn": "Dhakeshwari",
+          "nameBn": "ঢাকেশ্বরী"
+        },
+        {
+          "nameEn": "Dhaka University",
+          "nameBn": "ঢাকা বিশ্ববিদ্যালয়"
+        },
+        {
+          "nameEn": "New Market",
+          "nameBn": "নিউ মার্কেট"
+        },
+        {
+          "nameEn": "Dhanmondi",
+          "nameBn": "ধানমন্ডি"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        },
+        {
+          "nameEn": "Savar",
+          "nameBn": "সাভার"
+        },
+        {
+          "nameEn": "Navinagar",
+          "nameBn": "নবীনগর"
+        },
+        {
+          "nameEn": "Dhamrai",
+          "nameBn": "ধামরাই"
+        }
+      ],
+      "operatingHours": "06:00 - 19:00",
+      "contact": "01700000021"
+    },
+    {
+      "id": 22,
+      "nameEn": "Dipon Transport",
+      "nameBn": "দীপন ট্রান্সপোর্ট",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Jigatola",
+          "nameBn": "জিগাতলা"
+        },
+        {
+          "nameEn": "Dhanmondi-15",
+          "nameBn": "ধানমন্ডি-১৫"
+        },
+        {
+          "nameEn": "Star Kabab",
+          "nameBn": "স্টার কাবাব"
+        },
+        {
+          "nameEn": "Shankar",
+          "nameBn": "শংকর"
+        },
+        {
+          "nameEn": "BRTC Bus Stop-1",
+          "nameBn": "বিআরটিসি বাস স্টপ-১"
+        },
+        {
+          "nameEn": "Mohammadpur",
+          "nameBn": "মোহাম্মদপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000022"
+    },
+    {
+      "id": 23,
+      "nameEn": "D-Link",
+      "nameBn": "ডি-লিংক",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Fulbaria",
+          "nameBn": "ফুলবাড়িয়া"
+        },
+        {
+          "nameEn": "Chankharpool",
+          "nameBn": "চাংখারপুল"
+        },
+        {
+          "nameEn": "Dhakeshwari Temple",
+          "nameBn": "ঢাকেশ্বরী মন্দির"
+        },
+        {
+          "nameEn": "Azimpur",
+          "nameBn": "আজিমপুর"
+        },
+        {
+          "nameEn": "New Market",
+          "nameBn": "নিউ মার্কেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        },
+        {
+          "nameEn": "Savar",
+          "nameBn": "সাভার"
+        },
+        {
+          "nameEn": "Navinagar",
+          "nameBn": "নবীনগর"
+        },
+        {
+          "nameEn": "Dhamrai",
+          "nameBn": "ধামরাই"
+        }
+      ],
+      "operatingHours": "06:00 - 19:00",
+      "contact": "01700000023"
+    },
+    {
+      "id": 24,
+      "nameEn": "Ekata",
+      "nameBn": "একতা",
+      "type": "service",
+      "operator": "Private",
+      "fare": 70,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Joykalir Temple",
+          "nameBn": "জয়কালী মন্দির"
+        },
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Shanir Akhara",
+          "nameBn": "শনির আখড়া"
+        },
+        {
+          "nameEn": "Rayer Bag",
+          "nameBn": "রায়েরবাগ"
+        },
+        {
+          "nameEn": "Modkel",
+          "nameBn": "মডকেল"
+        },
+        {
+          "nameEn": "Signboard",
+          "nameBn": "সাইনবোর্ড"
+        },
+        {
+          "nameEn": "Tuiganj",
+          "nameBn": "ভুইগড়"
+        },
+        {
+          "nameEn": "Olkuri",
+          "nameBn": "জালকুড়ি"
+        },
+        {
+          "nameEn": "Shib Market",
+          "nameBn": "শিবু মার্কেট"
+        },
+        {
+          "nameEn": "Narayanganj",
+          "nameBn": "নারায়ণগঞ্জ"
+        }
+      ],
+      "operatingHours": "06:00 - 18:00",
+      "contact": "01700000024"
+    },
+    {
+      "id": 25,
+      "nameEn": "Ena Paribohon",
+      "nameBn": "এনা পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000025"
+    },
+    {
+      "id": 26,
+      "nameEn": "ETC",
+      "nameBn": "ইটিসি",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000026"
+    },
+    {
+      "id": 27,
+      "nameEn": "Falgun",
+      "nameBn": "ফাল্গুন",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Azimpur",
+          "nameBn": "আজিমপুর"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Kakrail",
+          "nameBn": "কাকরাইল"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Shahzadpur",
+          "nameBn": "শাহজাদপুর"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000027"
+    },
+    {
+      "id": 28,
+      "nameEn": "FT.C.L.",
+      "nameBn": "এফ.টি.সি.এল.",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Mohammadpur",
+          "nameBn": "মোহাম্মদপুর"
+        },
+        {
+          "nameEn": "Shankar",
+          "nameBn": "শংকর"
+        },
+        {
+          "nameEn": "Star Kabab",
+          "nameBn": "স্টার কাবাব"
+        },
+        {
+          "nameEn": "Jigatola",
+          "nameBn": "জিগাতলা"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Arambagh",
+          "nameBn": "আরামবাগ"
+        },
+        {
+          "nameEn": "Notre Dame College",
+          "nameBn": "নটরডেম কলেজ"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000028"
+    },
+    {
+      "id": 29,
+      "nameEn": "Gazipur Paribahan",
+      "nameBn": "গাজীপুর পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Fulbaria",
+          "nameBn": "ফুলবাড়িয়া"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        },
+        {
+          "nameEn": "Gazipur",
+          "nameBn": "গাজীপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 19:00",
+      "contact": "01700000029"
+    },
+    {
+      "id": 30,
+      "nameEn": "Jatrabari Paribahan Ltd.",
+      "nameBn": "যাত্রাবাড়ী পরিবহণ লিঃ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Demra",
+          "nameBn": "ডেমরা"
+        },
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Kamalapur Railway Station",
+          "nameBn": "কমলাপুর রেলওয়ে স্টেশন"
+        },
+        {
+          "nameEn": "Junggi Mazar",
+          "nameBn": "জঙ্গী মাজার"
+        },
+        {
+          "nameEn": "Rajarbag Police Line",
+          "nameBn": "রাজারবাগ পুলিশ লাইন"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Satrastha",
+          "nameBn": "সাতরাস্তা"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "06:00 - 19:00",
+      "contact": "01700000030"
+    },
+    {
+      "id": 31,
+      "nameEn": "Labbayak",
+      "nameBn": "লাব্বায়েক",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Sayedabad",
+          "nameBn": "সায়েদাবাদ"
+        },
+        {
+          "nameEn": "Maniknagor",
+          "nameBn": "মানিকনগর"
+        },
+        {
+          "nameEn": "Mugdapara",
+          "nameBn": "মুগদাপাড়া"
+        },
+        {
+          "nameEn": "Basabo",
+          "nameBn": "বাসাবো"
+        },
+        {
+          "nameEn": "Khilgaon",
+          "nameBn": "খিলগাঁও"
+        },
+        {
+          "nameEn": "Sohagh Head Office",
+          "nameBn": "সোহাগ হেড অফিস"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        },
+        {
+          "nameEn": "Savar",
+          "nameBn": "সাভার"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000031"
+    },
+    {
+      "id": 32,
+      "nameEn": "Metro Link",
+      "nameBn": "মেট্রো লিংক",
+      "type": "service",
+      "operator": "Private",
+      "fare": 40,
+      "route": [
+        {
+          "nameEn": "Mirpur-1",
+          "nameBn": "মিরপুর-১"
+        },
+        {
+          "nameEn": "Ansar Camp",
+          "nameBn": "আনসার ক্যাম্প"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "Kolabagan",
+          "nameBn": "কলাবাগান"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "New Market",
+          "nameBn": "নিউ মার্কেট"
+        },
+        {
+          "nameEn": "Azimpur",
+          "nameBn": "আজিমপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000032"
+    },
+    {
+      "id": 33,
+      "nameEn": "Midway Link Private Ltd.",
+      "nameBn": "মিডওয়ে লিংক প্রাইভেট লিঃ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Mohammadpur",
+          "nameBn": "মোহাম্মদপুর"
+        },
+        {
+          "nameEn": "BRTC Bus Stop-1",
+          "nameBn": "বিআরটিসি বাস স্টপ-১"
+        },
+        {
+          "nameEn": "Shankar",
+          "nameBn": "শংকর"
+        },
+        {
+          "nameEn": "Star Kabab",
+          "nameBn": "স্টার কাবাব"
+        },
+        {
+          "nameEn": "Dhanmondi-15",
+          "nameBn": "ধানমন্ডি-১৫"
+        },
+        {
+          "nameEn": "Jigatola",
+          "nameBn": "জিগাতলা"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Kamalapur Railway Station",
+          "nameBn": "কমলাপুর রেলওয়ে স্টেশন"
+        },
+        {
+          "nameEn": "Mugdapara",
+          "nameBn": "মুগদাপাড়া"
+        },
+        {
+          "nameEn": "Basabo",
+          "nameBn": "বাসাবো"
+        },
+        {
+          "nameEn": "Khilgaon",
+          "nameBn": "খিলগাঁও"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000033"
+    },
+    {
+      "id": 34,
+      "nameEn": "Mirpur-10,11,12",
+      "nameBn": "মিরপুর-১০,১১,১২",
+      "type": "service",
+      "operator": "Private",
+      "fare": 40,
+      "route": [
+        {
+          "nameEn": "Motijheel",
+          "nameBn": "মতিঝিল"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Sheraton",
+          "nameBn": "শেরাটন"
+        },
+        {
+          "nameEn": "Kaoran Bazaar",
+          "nameBn": "কাওরান বাজার"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Sherer Bangla University",
+          "nameBn": "শেরে বাংলা বিশ্ববিদ্যালয়"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Mirpur-11",
+          "nameBn": "মিরপুর-১১"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000034"
+    },
+    {
+      "id": 35,
+      "nameEn": "Mirpur United Service",
+      "nameBn": "মিরপুর ইউনাইটেড সার্ভিস",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Sadarghat",
+          "nameBn": "সদরঘাট"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000035"
+    },
+    {
+      "id": 36,
+      "nameEn": "My Line",
+      "nameBn": "মাই লাইন",
+      "type": "service",
+      "operator": "Private",
+      "fare": 40,
+      "route": [
+        {
+          "nameEn": "Mirpur-14",
+          "nameBn": "মিরপুর-১৪"
+        },
+        {
+          "nameEn": "Mirpur-13",
+          "nameBn": "মিরপুর-১৩"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Mirpur-2",
+          "nameBn": "মিরপুর-২"
+        },
+        {
+          "nameEn": "Mirpur-1",
+          "nameBn": "মিরপুর-১"
+        },
+        {
+          "nameEn": "Ansar Camp",
+          "nameBn": "আনসার ক্যাম্প"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "Kolabagan",
+          "nameBn": "কলাবাগান"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000036"
+    },
+    {
+      "id": 37,
+      "nameEn": "New Vision",
+      "nameBn": "নিউ ভিশন",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Ansar Camp",
+          "nameBn": "আনসার ক্যাম্প"
+        },
+        {
+          "nameEn": "Mirpur-1",
+          "nameBn": "মিরপুর-১"
+        },
+        {
+          "nameEn": "Mirpur Zoo",
+          "nameBn": "মিরপুর চিড়িয়াখানা"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000037"
+    },
+    {
+      "id": 38,
+      "nameEn": "6 No.",
+      "nameBn": "৬ নং",
+      "type": "service",
+      "operator": "Private",
+      "fare": 35,
+      "route": [
+        {
+          "nameEn": "Motijheel",
+          "nameBn": "মতিঝিল"
+        },
+        {
+          "nameEn": "Kamalapur",
+          "nameBn": "কমলাপুর"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Iskaton",
+          "nameBn": "ইস্কাটন"
+        },
+        {
+          "nameEn": "Kaoran Bazaar",
+          "nameBn": "কাওরান বাজার"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Airport Road",
+          "nameBn": "এয়ারপোর্ট রোড"
+        },
+        {
+          "nameEn": "Banani",
+          "nameBn": "বনানী"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000038"
+    },
+    {
+      "id": 39,
+      "nameEn": "7 No. Local",
+      "nameBn": "৭ নং লোকাল",
+      "type": "service",
+      "operator": "Private",
+      "fare": 30,
+      "route": [
+        {
+          "nameEn": "Sadarghat",
+          "nameBn": "সদরঘাট"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Naya Bazaar",
+          "nameBn": "নয়া বাজার"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Kolabagan",
+          "nameBn": "কলাবাগান"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000039"
+    },
+    {
+      "id": 40,
+      "nameEn": "8 No. Local",
+      "nameBn": "৮ নং লোকাল",
+      "type": "service",
+      "operator": "Private",
+      "fare": 30,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Motijheel",
+          "nameBn": "মতিঝিল"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Sheraton",
+          "nameBn": "শেরাটন"
+        },
+        {
+          "nameEn": "Kaoran Bazaar",
+          "nameBn": "কাওরান বাজার"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000040"
+    },
+    {
+      "id": 41,
+      "nameEn": "8 No. Local (Route 2)",
+      "nameBn": "৮ নং লোকাল (রুট ২)",
+      "type": "service",
+      "operator": "Private",
+      "fare": 30,
+      "route": [
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Gabtoli",
+          "nameBn": "গাবতলী"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000041"
+    },
+    {
+      "id": 42,
+      "nameEn": "Panjeri",
+      "nameBn": "পাঞ্জেরী",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Kakrail",
+          "nameBn": "কাকরাইল"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Satrastha",
+          "nameBn": "সাতরাস্তা"
+        },
+        {
+          "nameEn": "Tibet",
+          "nameBn": "তিব্বত"
+        },
+        {
+          "nameEn": "Nabisco",
+          "nameBn": "নাবিস্কো"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Banani",
+          "nameBn": "বনানী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Rajlakshmi",
+          "nameBn": "রাজলক্ষ্মী"
+        },
+        {
+          "nameEn": "Housebuilding",
+          "nameBn": "হাউসবিল্ডিং"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi Station Road",
+          "nameBn": "টঙ্গী স্টেশন রোড"
+        },
+        {
+          "nameEn": "Kamarpara",
+          "nameBn": "কামারপাড়া"
+        }
+      ],
+      "operatingHours": "06:00 - 20:00",
+      "contact": "01700000042"
+    },
+    {
+      "id": 43,
+      "nameEn": "Provati Banashree",
+      "nameBn": "প্রভাতী বনশ্রী",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Kakrail",
+          "nameBn": "কাকরাইল"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Satrastha",
+          "nameBn": "সাতরাস্তা"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        },
+        {
+          "nameEn": "Shafipur",
+          "nameBn": "শফিপুর"
+        },
+        {
+          "nameEn": "Kaliarkar",
+          "nameBn": "কালিয়াকৈর"
+        }
+      ],
+      "operatingHours": "06:00 - 20:00",
+      "contact": "01700000043"
+    },
+    {
+      "id": 44,
+      "nameEn": "Rayda",
+      "nameBn": "রায়দা",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Postgola",
+          "nameBn": "পোস্তগোলা"
+        },
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Sayedabad",
+          "nameBn": "সায়েদাবাদ"
+        },
+        {
+          "nameEn": "Maniknagor",
+          "nameBn": "মানিকনগর"
+        },
+        {
+          "nameEn": "Kamalapur",
+          "nameBn": "কমলাপুর"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Satrastha",
+          "nameBn": "সাতরাস্তা"
+        },
+        {
+          "nameEn": "Nabisco",
+          "nameBn": "নাবিস্কো"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        },
+        {
+          "nameEn": "Gazipur",
+          "nameBn": "গাজীপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 19:00",
+      "contact": "01700000044"
+    },
+    {
+      "id": 45,
+      "nameEn": "Salsabil",
+      "nameBn": "সালসাবিল",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Sayedabad",
+          "nameBn": "সায়েদাবাদ"
+        },
+        {
+          "nameEn": "Maniknagor",
+          "nameBn": "মানিকনগর"
+        },
+        {
+          "nameEn": "Kamalapur",
+          "nameBn": "কমলাপুর"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        },
+        {
+          "nameEn": "Gulshan American Embassy",
+          "nameBn": "গুলশান আমেরিকান এম্বাসি"
+        },
+        {
+          "nameEn": "Bandhara",
+          "nameBn": "বারিধারা"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000045"
+    },
+    {
+      "id": 46,
+      "nameEn": "Salsabil (Route 2)",
+      "nameBn": "সালসাবিল (রুট ২)",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Basabo",
+          "nameBn": "বাসাবো"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Shahzadpur",
+          "nameBn": "শাহজাদপুর"
+        },
+        {
+          "nameEn": "Nutan Bazaar",
+          "nameBn": "নতুন বাজার"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000046"
+    },
+    {
+      "id": 47,
+      "nameEn": "Shakalpo",
+      "nameBn": "স্বকল্প",
+      "type": "service",
+      "operator": "Private",
+      "fare": 45,
+      "route": [
+        {
+          "nameEn": "Kamalapur",
+          "nameBn": "কমলাপুর"
+        },
+        {
+          "nameEn": "Rajarbag Police Line",
+          "nameBn": "রাজারবাগ পুলিশ লাইন"
+        },
+        {
+          "nameEn": "Mogbazar",
+          "nameBn": "মগবাজার"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Agaraon",
+          "nameBn": "আগারগাঁও"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Mirpur-2",
+          "nameBn": "মিরপুর-২"
+        },
+        {
+          "nameEn": "Mirpur-1",
+          "nameBn": "মিরপুর-১"
+        },
+        {
+          "nameEn": "Mirpur",
+          "nameBn": "মিরপুর"
+        },
+        {
+          "nameEn": "Zoo",
+          "nameBn": "চিড়িয়াখানা"
+        }
+      ],
+      "operatingHours": "06:00 - 21:00",
+      "contact": "01700000047"
+    },
+    {
+      "id": 48,
+      "nameEn": "Shikor Paribahan",
+      "nameBn": "শিকড় পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Shyarupara",
+          "nameBn": "শেওড়াপাড়া"
+        },
+        {
+          "nameEn": "Kazipara",
+          "nameBn": "কাজীপাড়া"
+        },
+        {
+          "nameEn": "Mirpur-10",
+          "nameBn": "মিরপুর-১০"
+        },
+        {
+          "nameEn": "Pallabi",
+          "nameBn": "পল্লবী"
+        },
+        {
+          "nameEn": "Mirpur-12",
+          "nameBn": "মিরপুর-১২"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000048"
+    },
+    {
+      "id": 49,
+      "nameEn": "Shotabdi Paribahan",
+      "nameBn": "শতাব্দী পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Motijheel Shapla Chattor",
+          "nameBn": "মতিঝিল শাপলা চত্বর"
+        },
+        {
+          "nameEn": "Bangabandhu Stadium",
+          "nameBn": "বঙ্গবন্ধু স্টেডিয়াম"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Science Lab",
+          "nameBn": "সাইন্সল্যাব"
+        },
+        {
+          "nameEn": "Jigatola",
+          "nameBn": "জিগাতলা"
+        },
+        {
+          "nameEn": "Dhanmondi-95",
+          "nameBn": "ধানমন্ডি-৯৫"
+        },
+        {
+          "nameEn": "Star Kabab",
+          "nameBn": "স্টার কাবাব"
+        },
+        {
+          "nameEn": "Shankar",
+          "nameBn": "শংকর"
+        },
+        {
+          "nameEn": "BRTC Bus Stop-1",
+          "nameBn": "বিআরটিসি বাস স্টপ-১"
+        },
+        {
+          "nameEn": "BRTC Bus Stop-2",
+          "nameBn": "বিআরটিসি বাস স্টপ-২"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000049"
+    },
+    {
+      "id": 50,
+      "nameEn": "Skyline",
+      "nameBn": "স্কাইলাইন",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Sadarghat",
+          "nameBn": "সদরঘাট"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Naya Bazaar",
+          "nameBn": "নয়া বাজার"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        },
+        {
+          "nameEn": "Shafipur",
+          "nameBn": "শফিপুর"
+        }
+      ],
+      "operatingHours": "06:00 - 20:00",
+      "contact": "01700000050"
+    },
+    {
+      "id": 51,
+      "nameEn": "Suprovat",
+      "nameBn": "সুপ্রভাত",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Sadarghat",
+          "nameBn": "সদরঘাট"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Naya Bazaar",
+          "nameBn": "নয়া বাজার"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Kakrail",
+          "nameBn": "কাকরাইল"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Sohagh Head Office",
+          "nameBn": "সোহাগ হেড অফিস"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        },
+        {
+          "nameEn": "Shahzadpur",
+          "nameBn": "শাহজাদপুর"
+        },
+        {
+          "nameEn": "Nutan Bazaar",
+          "nameBn": "নতুন বাজার"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000051"
+    },
+    {
+      "id": 52,
+      "nameEn": "Tangil Paribahan",
+      "nameBn": "টাঙ্গাইল পরিবহণ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 50,
+      "route": [
+        {
+          "nameEn": "Sadarghat",
+          "nameBn": "সদরঘাট"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Naya Bazaar",
+          "nameBn": "নয়া বাজার"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Press Club",
+          "nameBn": "প্রেসক্লাব"
+        },
+        {
+          "nameEn": "Shahbag",
+          "nameBn": "শাহবাগ"
+        },
+        {
+          "nameEn": "Banglamotor",
+          "nameBn": "বাংলামটর"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "College Gate",
+          "nameBn": "কলেজগেট"
+        },
+        {
+          "nameEn": "Shisumelaah",
+          "nameBn": "শিশুমেলা"
+        },
+        {
+          "nameEn": "Shyamoli",
+          "nameBn": "শ্যামলী"
+        },
+        {
+          "nameEn": "Kalyanpur",
+          "nameBn": "কল্যাণপুর"
+        },
+        {
+          "nameEn": "Technical",
+          "nameBn": "টেকনিক্যাল"
+        },
+        {
+          "nameEn": "Ansar Camp",
+          "nameBn": "আনসার ক্যাম্প"
+        },
+        {
+          "nameEn": "Mirpur-1",
+          "nameBn": "মিরপুর-১"
+        }
+      ],
+      "operatingHours": "05:45 - 22:00",
+      "contact": "01700000052"
+    },
+    {
+      "id": 53,
+      "nameEn": "Turag",
+      "nameBn": "তুরাগ",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Sayedabad",
+          "nameBn": "সায়েদাবাদ"
+        },
+        {
+          "nameEn": "Maniknagor",
+          "nameBn": "মানিকনগর"
+        },
+        {
+          "nameEn": "Kamalapur",
+          "nameBn": "কমলাপুর"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        },
+        {
+          "nameEn": "Gulshan American Embassy",
+          "nameBn": "গুলশান আমেরিকান এম্বাসি"
+        },
+        {
+          "nameEn": "Bandhara",
+          "nameBn": "বারিধারা"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000053"
+    },
+    {
+      "id": 54,
+      "nameEn": "Ullash",
+      "nameBn": "উল্লাস",
+      "type": "service",
+      "operator": "Private",
+      "fare": 70,
+      "route": [
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Jatrabari",
+          "nameBn": "যাত্রাবাড়ী"
+        },
+        {
+          "nameEn": "Jurain Postgola",
+          "nameBn": "জুরাইন পোস্তগোলা"
+        },
+        {
+          "nameEn": "Dhaleshwari",
+          "nameBn": "ধলেশ্বরী"
+        },
+        {
+          "nameEn": "Pagla",
+          "nameBn": "পাগলা"
+        },
+        {
+          "nameEn": "Fattullaah",
+          "nameBn": "ফতুল্লা"
+        },
+        {
+          "nameEn": "Panchbati",
+          "nameBn": "পঞ্চবটী"
+        },
+        {
+          "nameEn": "Narayanganj",
+          "nameBn": "নারায়ণগঞ্জ"
+        }
+      ],
+      "operatingHours": "06:00 - 18:00",
+      "contact": "01700000054"
+    },
+    {
+      "id": 55,
+      "nameEn": "V.I.P.",
+      "nameBn": "ভি.আই.পি.",
+      "type": "service",
+      "operator": "Private",
+      "fare": 60,
+      "route": [
+        {
+          "nameEn": "Azimpur",
+          "nameBn": "আজিমপুর"
+        },
+        {
+          "nameEn": "New Market",
+          "nameBn": "নিউ মার্কেট"
+        },
+        {
+          "nameEn": "City College",
+          "nameBn": "সিটি কলেজ"
+        },
+        {
+          "nameEn": "Kolabagan",
+          "nameBn": "কলাবাগান"
+        },
+        {
+          "nameEn": "Asadgate",
+          "nameBn": "আসাদগেট"
+        },
+        {
+          "nameEn": "Farmgate",
+          "nameBn": "ফার্মগেট"
+        },
+        {
+          "nameEn": "Mohakhali",
+          "nameBn": "মহাখালী"
+        },
+        {
+          "nameEn": "Kakoli",
+          "nameBn": "কাকলী"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        },
+        {
+          "nameEn": "Abdullahpur",
+          "nameBn": "আব্দুল্লাহপুর"
+        },
+        {
+          "nameEn": "Tongi",
+          "nameBn": "টঙ্গী"
+        }
+      ],
+      "operatingHours": "06:00 - 20:00",
+      "contact": "01700000055"
+    },
+    {
+      "id": 56,
+      "nameEn": "Victor",
+      "nameBn": "ভিক্টর",
+      "type": "service",
+      "operator": "Private",
+      "fare": 55,
+      "route": [
+        {
+          "nameEn": "Sadarghat",
+          "nameBn": "সদরঘাট"
+        },
+        {
+          "nameEn": "Gulistan",
+          "nameBn": "গুলিস্তান"
+        },
+        {
+          "nameEn": "Naya Bazaar",
+          "nameBn": "নয়া বাজার"
+        },
+        {
+          "nameEn": "Golapsah Mazar",
+          "nameBn": "গোলাপশাহ মাজার"
+        },
+        {
+          "nameEn": "Paltan",
+          "nameBn": "পল্টন"
+        },
+        {
+          "nameEn": "Kakrail",
+          "nameBn": "কাকরাইল"
+        },
+        {
+          "nameEn": "Malibagh",
+          "nameBn": "মালিবাগ"
+        },
+        {
+          "nameEn": "Sohagh Head Office",
+          "nameBn": "সোহাগ হেড অফিস"
+        },
+        {
+          "nameEn": "Rampura",
+          "nameBn": "রামপুরা"
+        },
+        {
+          "nameEn": "Badda",
+          "nameBn": "বাড্ডা"
+        },
+        {
+          "nameEn": "Shahzadpur",
+          "nameBn": "শাহজাদপুর"
+        },
+        {
+          "nameEn": "Nutan Bazaar",
+          "nameBn": "নতুন বাজার"
+        },
+        {
+          "nameEn": "Basundhara",
+          "nameBn": "বসুন্ধরা"
+        },
+        {
+          "nameEn": "Kuril",
+          "nameBn": "কুড়িল"
+        },
+        {
+          "nameEn": "Khilkhet",
+          "nameBn": "খিলক্ষেত"
+        },
+        {
+          "nameEn": "Airport",
+          "nameBn": "এয়ারপোর্ট"
+        },
+        {
+          "nameEn": "Uttara",
+          "nameBn": "উত্তরা"
+        }
+      ],
+      "operatingHours": "06:00 - 22:00",
+      "contact": "01700000056"
+    }
+  ]
+}

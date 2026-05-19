@@ -1,0 +1,32 @@
+{
+  "bn": {
+    "headerTitle": "বাস রুট সার্চ",
+    "headerSubtitle": "ঢাকা শহরের সব বাস রুট এক জায়গায়",
+    "searchLabel": "আপনার বাস খুঁজুন",
+    "searchPlaceholder": "বাস নাম বা এলাকা লিখুন (যেমন: টঙ্গী, আবাবিল)",
+    "fromPlaceholder": " কোথা থেকে?",
+    "toPlaceholder": " কোথায় যাবেন?",
+    "busFound": "পাওয়া গেছে",
+    "busCount": "টি বাস",
+    "busNotFound": "কোনো বাস পাওয়া যায়নি",
+    "searchAgain": "অন্য এলাকা বা বাস নাম দিয়ে খুঁজে দেখুন",
+    "service": "সার্ভিস",
+    "brtc": "BRTC",
+    "footerText": "সহজেই বাস খুঁজুন"
+  },
+  "en": {
+    "headerTitle": "Bus Route Search",
+    "headerSubtitle": "Find all bus routes in Dhaka city in one place",
+    "searchLabel": "Find Your Bus",
+    "searchPlaceholder": "Enter bus name or area (e.g.: Tongi, Ababil)",
+    "fromPlaceholder": " From?",
+    "toPlaceholder": " To?",
+    "busFound": "Found",
+    "busCount": "buses",
+    "busNotFound": "No buses found",
+    "searchAgain": "Try searching with a different area or bus name",
+    "service": "Service",
+    "brtc": "BRTC",
+    "footerText": "Find buses easily"
+  }
+}

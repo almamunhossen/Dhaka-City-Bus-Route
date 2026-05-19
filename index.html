@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<title>ঢাকা বাস রুট সার্চ | From To Bus Finder</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="ঢাকা শহরের বাস রুট খুঁজুন সহজে। From → To নির্বাচন করে সব বাস রুট দেখুন।">
+<meta name="keywords" content="Dhaka Bus Route, Bus Route Search, From To Bus Dhaka">
+<meta name="theme-color" content="#2563eb">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css.css">
+</head>
+<body>
+<div class="header">
+  <div class="header-container">
+    <div class="header-left">
+      <div class="logo-icon"><i class="fas fa-bus"></i></div>
+      <div>
+        <h1 id="headerTitle">বাস রুট সার্চ</h1>
+        <div class="header-subtitle" id="headerSubtitle">ঢাকা শহরের সব বাস রুট এক জায়গায়</div>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button id="languageToggle" class="lang-btn" title="Language">EN</button>
+      <button id="themeToggle" title="Dark/Light Mode"><i class="fas fa-moon"></i></button>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="search-section">
+    <div class="search-title"><i class="fas fa-search"></i> <span id="searchLabel">আপনার বাস খুঁজুন</span></div>
+    <div class="search-input-group">
+      <div class="search-input-wrapper">
+        <input type="text" id="searchInput" placeholder="বাস নাম বা এলাকা লিখুন (যেমন: টঙ্গী, আবাবিল)" data-bn="বাস নাম বা এলাকা লিখুন (যেমন: টঙ্গী, আবাবিল)" data-en="Enter bus name or area (e.g.: Tongi, Ababil)">
+      </div>
+    </div>
+    <div class="select-group">
+      <div class="search-input-wrapper select-from-wrapper">
+        <i class="select-icon fas fa-map-pin"></i>
+        <select id="fromSelect"><option value="" data-bn=" কোথা থেকে?" data-en=" From?"> কোথা থেকে?</option></select>
+      </div>
+      <button id="swapBtn" class="swap-btn" title="Swap From & To">
+        <i class="fas fa-arrow-right-arrow-left"></i>
+      </button>
+      <div class="search-input-wrapper select-to-wrapper">
+        <i class="select-icon fas fa-location-dot"></i>
+        <select id="toSelect"><option value="" data-bn=" কোথায় যাবেন?" data-en=" To?"> কোথায় যাবেন?</option></select>
+      </div>
+    </div>
+  </div>
+  <div id="busResults"></div>
+</div>
+<div class="footer">
+  <i class="fas fa-copyright"></i> <samp id="time-year">2000</samp> Dhaka Bus Route Finder - <span id="footerText">সহজেই বাস খুঁজুন</span>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
